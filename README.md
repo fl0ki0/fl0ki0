@@ -67,7 +67,6 @@ Here are some ideas to get you started:
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/fl0ki0/fl0ki0/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
@@ -83,4 +82,5 @@ Here are some ideas to get you started:
 </div>
 
 <br/><br/>
+
 
