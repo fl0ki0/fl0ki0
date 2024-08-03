@@ -1,4 +1,4 @@
-## Hi there 👋
+## floki can humanize ur data
 
 <!--
 **fl0ki0/fl0ki0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 <div align="center">
  
  🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **python,machine learning, data analysis, sql... or anything [here](https://github.com/salesp07/salesp07/issues)**
+🌱 I’m currently learning **cybersecurity,cloud, AWS**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **Python, machine learning, data analysis, NLP, Raspberry Pi projects, SQLite, or anything [here](https://github.com/fl0ki0/fl0ki0/issues)**
+
+⚡ Fun fact **ragnar never loved floki**
 
  </div>
  
