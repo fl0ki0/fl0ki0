@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fl0ki0.fl0ki0" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Islam+elgohary!;" />
-</h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F746&background=FFF7EE00&center=true&width=435&height=60&lines=Hi+There+👋;+I'm+Islam+elgohary!" alt="Typing SVG" />
+</a>
+
 
 <h3 align="center">A passionate data scientist from Egypt eg</h3>
 
