@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c++,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=c,firebase,mongodb,c,java,nextjs,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=java,firebase,mongodb,c,unity,mysql," /><br>
 </div>
 
 <br/>
