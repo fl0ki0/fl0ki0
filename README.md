@@ -55,9 +55,8 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,python,mysql,vscode,github,git,r" />
     <img src="https://skillicons.dev/icons?i=java,firebase,mongodb,c,unity" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,aws,supabase,raspberrypi,sqlite,nltk,dlib,mediapipe" />
-    <img src="https://skillicons.dev/icons?i=jupyter,powerbi,googlesheets" />
-    <img src="https://skillicons.dev/icons?i=kali,wireshark" />
+    <img src="https://skillicons.dev/icons?i=aws,supabase,raspberrypi,sqlite,nltk,dlib,mediapipe" />
+    <img src="https://skillicons.dev/icons?i=wireshark" />
 </div>
 
 
