@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,python,mysql,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=Jupyter Notebook,java,firebase,mongodb,c,unity,c++" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,python,mysql,vscode,github,git,R" />
+    <img src="https://skillicons.dev/icons?i=Jupyter Notebook,java,firebase,mongodb,c,unity" /><br>
 </div>
 
 <br/>
